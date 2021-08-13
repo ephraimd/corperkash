@@ -25,7 +25,7 @@ body {
   font-weight: normal;
   font-style: normal;
   color: #747E88;
-  overflow-x: hidden; }
+  overflow-x:hidden; }
 
 * {
   margin: 0;
@@ -1443,3 +1443,5 @@ p {
   .back-to-top:hover {
     background-color: rgba(8, 152, 231, 0.5);
     color: #fff; }
+
+
